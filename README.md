@@ -1,8 +1,5 @@
 Instructions for using jQuery.validationEngine v2.6.2
 to implement custom fields beyond those used in the demo.
-=====
-
-Summary
 ---
 
 **jQuery validation** engine is a Javascript plugin aimed at the validation of form fields in the browser (IE 6-8, Chrome, Firefox, Safari, Opera 10).
